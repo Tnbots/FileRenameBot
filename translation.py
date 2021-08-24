@@ -1,7 +1,7 @@
 class Translation(object):
     START_TEXT = """ <b> Hi {} , I am a TN Renamer bot with permanent thumbnail support.😱 </b> \n
 
-For More Details check Help 📜</i> \n
+
 
 <b>Bot Maintained By: @TN_Bots😇</b>\n 
 """
@@ -29,7 +29,7 @@ For More Details check Help 📜</i> \n
     USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
     IFLONG_FILE_NAME = """You Gotta Be Kidding Me...Decrease The Number Of Letters😆😉"""
     ABOUT_ME = """<b>Meh : \n An Telegram File Renamer Bot Which Can Rename A Telegram Files. \n You Can Set Permanent Thumbnail For The File So You Don't Have To Send Custom Thumbs All The Time.\n \n i can also convert files into videos \n Reports @Im_professorr If You Found Meh Useful</b>"""
-    HELP_USER = """Checkout The Available Commands Here \n\n Do Follow  @TN_Bots If You Find This Bot Usefull❤️"""
+    HELP_USER = """Checkout The Available Commands Here \n\n Do Follow  @TN_Bots If You Find This Bot Usefull</b> \n❤️"""
     RENAME_HELP = """Here are The Available Commands In Reanme \n\n\n▪️ <code>/rename</code> : Reply To An File/video With <code>/rename Filename.extension</code> For Renaming"""
     C2V_HELP = """Here Are The Available Commands In File To Video \n\n\n ▪️<code>/c2v</code> : Reply To An File With /c2v To Convert It Into Video"""
     THUMBNAIL_HELP = """Here Are The Available Commands In Custom Thumbnail \n\n\n ▪️ Send A Photo To Set The Custom Thumbnail \n▪️ <code>/showthumb</code> : For Checking The Current Thumbnail \n▪️<code>/delthumb</code> : For Deleting The Current Saved Thumbnail"""
