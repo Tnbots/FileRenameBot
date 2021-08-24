@@ -1,7 +1,7 @@
 class Translation(object):
     START_TEXT = """ <b> Hi {} , I am a TN Renamer bot with permanent thumbnail support.😱 </b> \n
 
-For More Details check Help 📜</i>
+For More Details check Help 📜</i> \n
 
 <b>Bot Maintained By: @TN_Bots😇</b>\n 
 """
