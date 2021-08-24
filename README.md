@@ -1,4 +1,4 @@
-## Multipurpose Bot 
+## TN Rename Bot 
 
 An Multi purpose Bot Which Can :-
 * ✅Rename Telegram Files 
