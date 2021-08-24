@@ -99,14 +99,14 @@ async def start_me(bot, update):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                        InlineKeyboardButton("Help", callback_data = "ghelp")
+                        InlineKeyboardButton("Help💡", callback_data = "ghelp")
                 ],
                 [
-                    InlineKeyboardButton('Support Channel', url='https://t.me/TN_Bots'),
-                    InlineKeyboardButton('Support Group', url='https://t.me/Tn_support')
+                    InlineKeyboardButton('Support Channel🛠', url='https://t.me/TN_Bots'),
+                    InlineKeyboardButton('Support Group📘', url='https://t.me/Tn_support')
                 ],
                 [
-                    InlineKeyboardButton('Report', url='https://t.me/Im_professorr'),  
+                    InlineKeyboardButton('Report❌', url='https://t.me/Im_professorr'),  
                 ]
             ]
         ),
