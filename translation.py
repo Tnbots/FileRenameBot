@@ -1,7 +1,8 @@
 class Translation(object):
-    START_TEXT = """ <b> Hi {} , I'm A Simple File Renamer+File To Video Converter Bot With Permanent Thumbnail support!💯</b> \n
+    START_TEXT = """ <b> Hi {} , I am a TN Renamer bot with permanent thumbnail support.😱 </b> \n
 
-<b>Bot Maintained By: @MaI_BoTs </b> \n 
+For More Details check Help 📜</I>
+<b>Bot Maintained By: @TN_Bots😇 </b> \n 
 """
 
     RENAME_403_ERR = "What Are You Doing? Bruuh!!"
